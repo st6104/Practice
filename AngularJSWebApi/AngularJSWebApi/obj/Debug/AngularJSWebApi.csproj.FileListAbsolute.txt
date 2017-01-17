@@ -1,0 +1,14 @@
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\Newtonsoft.Json.dll
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\System.Net.Http.Formatting.dll
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.dll
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.WebHost.dll
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\Newtonsoft.Json.xml
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\System.Net.Http.Formatting.xml
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.xml
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.WebHost.xml
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.csprojResolveAssemblyReference.cache
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.dll.config
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.dll
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.pdb
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.dll
+M:\MyGit\Repositories\Practice\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.pdb
